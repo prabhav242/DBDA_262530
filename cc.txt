@@ -1,0 +1,3 @@
+For large files and heavy processing it is not feasible to use local machines as it can be very costly
+so we use cloud computing which provides a platform for heavy processings and a large storage and
+we are charged according to the usage
